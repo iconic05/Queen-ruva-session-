@@ -1,6 +1,6 @@
 # *MADE WITH 🤍 BY ICONIC TECH*
 
-![Iconic Tech Logo](https://example.com/logo.svg)  <!-- Replace with actual link to your SVG logo -->
+![Iconic Tech Logo](https://files.catbox.moe/fwt3gy.jpg)  <!-- Replace with the actual SVG link if needed -->
 
 ## *NOTE*
 - *SESSION ID GENERATOR FOR X-ASENA AND SECKTOR MD BASED BOTS*
